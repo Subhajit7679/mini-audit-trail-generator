@@ -9,8 +9,7 @@ It highlights the exact words added and removed, keeping your content changes tr
 Built with Next.js, it combines frontend and backend logic in the same project using API routes. Designed with custom CSS, smooth animations, and a clean UI.
 
 🏆 Live Demo
-If deployed on Vercel, place your demo link here:
-👉 https://your-vercel-url.vercel.app
+👉 https://your-project-url.vercel.app
 
 
 
