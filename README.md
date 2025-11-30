@@ -42,12 +42,19 @@ Uses lightweight serverless API routes:
 Works out-of-the-box on Vercel.
 
 🖼 Screenshots
-🧩 Editor & Save Panel
-<p align="center"> <img src="Screenshots/editor.png" width="80%"> </p>
-📜 Version History
-<p align="center"> <img src="Screenshots/history.png" width="80%"> </p>
+## 🖼 Screenshots
 
-If you send me your real screenshots, I’ll insert them and crop them perfectly.
+### 🧩 Editor & Save Panel
+<p align="center">
+  <img src="Screenshots/editor.png" width="85%" />
+</p>
+
+### 📜 Version History
+<p align="center">
+  <img src="Screenshots/history.png" width="85%" />
+</p>
+
+
 
 🛠 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=nextjs,react,js,vercel,css" height="45" /> </p>
